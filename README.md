@@ -1,6 +1,8 @@
 Topic 0: Introduction to C-programming 
 - C-programming language is a general purpose structured programming language. It contains additional features that allows it to be used at lower level this bridging the gap between machine language and the more conventional high level language. This property of C allows C to be used for system programming like OS development . 
- 
+
+========================================================================
+
 Topic 1: Data types and operators in C
   1.Fundamental dataypes
      -integer
@@ -39,3 +41,18 @@ Topic 1: Data types and operators in C
            - cast operator         : (type)
            -sizeof  operator       : sizeof
            -comma operator         : ,
+================================================================================
+Topic 2 : Input and Output functions       
+
+   There are two types of input output functions in c-programming language.
+   They are :
+    A. Formatted Function : Formated function required various types of format specifiers
+                            for respective data types .
+                            and scanf() is a input function and printf() is output 
+
+    B. Unfromatted function : They don't require format specifiers .
+           Input functions : gets(), getchar(), getche(), getch()
+           Out functions : puts(), putchar(), putch()                        
+
+================================================================================
+Topic 3 :

@@ -7,7 +7,6 @@ int main ()
 {
     int a ;
     char ch, str[50] ;
-   
     
     printf("\n=====================================================");
     printf("=====formatted input and output function ======\n");
