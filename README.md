@@ -55,4 +55,16 @@ Topic 2 : Input and Output functions
            Out functions : puts(), putchar(), putch()                        
 
 ================================================================================
-Topic 3 :
+Topic 3: Control Statements
+   - if-else statement
+   - loops( for, do while, while)
+   - switch statement
+   - jumping statements ( continue, break, goto )
+
+=========================================================================
+Topic 4: Functions 
+  -function decalaration and definition
+  - function call by value and reference
+  - Recursive function ( function calls itself)
+  - overview of variable( global, local, static , reference )
+=============================================================
