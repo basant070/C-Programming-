@@ -1,7 +1,7 @@
 // this program multiply two matrix
 
 #include <stdio.h>
-void mult2darray(int[][10], int[][10], int[][10], int, int, int);
+void mult2darray(int[][10], int[][10], int[][10], int, int, int); // function declaration
 int main()
 {
     int i, j, k, r1, r2, c1, c2, A[10][10], B[10][10], C[10][10];
@@ -54,7 +54,7 @@ int main()
 
     return 0;
 };
-
+// function defined
 void mult2darray(int A[][10], int B[][10], int C[][10], int r1, int c1, int c2)
 {
     int i, j, k, sum;
