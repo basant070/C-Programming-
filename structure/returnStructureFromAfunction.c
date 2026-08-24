@@ -1,3 +1,4 @@
+// C program to demonstrate how to return structure from a function
 #include<stdio.h>
 struct Student
 {
@@ -12,7 +13,7 @@ int main ()
     printf("\nStudent Details:\n");
     printf("Name: %s\n", s1.name);
     printf("Age: %d\n", s1.age);
-        printf("==============================================\n");
+     printf("==============================================\n");
     return 0;
 }
 struct Student getStudentDetails()
